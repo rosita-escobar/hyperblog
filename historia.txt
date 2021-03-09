@@ -2,4 +2,10 @@
 
 Rosita Escobar tiene 24 años 
 
+<<<<<<< HEAD
 Hoy hablaremos de su vida.. y obra maestra
+=======
+Hoy hablaremos de su historia
+
+mañana nos enfocaremos en su vida laboral
+>>>>>>> cabecera
