@@ -1,7 +1,7 @@
 body{
 <<<<<<< HEAD
 <<<<<<< HEAD
-    color: blue;
+    color: black;
 =======
     color: red;
 >>>>>>> cabecera
@@ -11,6 +11,7 @@ body{
     text-align: left;
     font-family:  "Arial";
     color: #333;
+    
 }
 
 #container{
@@ -21,13 +22,17 @@ margin: 0 auto;
 }
 
 #cabecera{
-background: #33A;
+background: url("../imagenes/logo1.jpg") 10px 10px;
 color: white;
 font-weight: bold;
 box-shadow: 0px 5px 10px opx rgba(0,0,0,0,5) ;
 margin: 0;
 padding: 0.5em;
 
+}
+#cabecera #logo{
+    width: 20px;
+    vertical-align: middle;
 }
 #cabecera #tagline{
     margin: 0 0 0 1em;
@@ -38,4 +43,8 @@ padding: 0.5em;
 #container h1{
     font-size: 20px;
 >>>>>>> cabecera
+}
+#post{
+    background: white;
+    padding: 1em;
 }
